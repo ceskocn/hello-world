@@ -1,2 +1,2 @@
 # hello-world
-My fist repository
+My first repository
